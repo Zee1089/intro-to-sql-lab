@@ -1,0 +1,14 @@
+             List of relations
+ Schema |       Name       | Type  | Owner 
+--------+------------------+-------+-------
+ public | cities           | table | zelda
+ public | countries        | table | zelda
+ public | countrylanguages | table | zelda
+(3 rows)
+
+      List of schemas
+  Name  |       Owner       
+--------+-------------------
+ public | pg_database_owner
+(1 row)
+
